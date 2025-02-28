@@ -1,0 +1,20 @@
+Colecciones.
+Java Collections Framework (JCF) son estructuras de datos que permiten almacenar y organizar multiples datos de manera eficiente,
+La jerarquia de colecciones, empieza por Collections y de esta se desprende, varias por ejemplo, listas, conjuntos, mapas, pilas y colas.
+
+Importancia de este Framework
+
+Facilita la manipulacion y organizacion de grandes volúmenes de datos.
+Proporciona soluciones optimizadas y seguras.
+Mejora el rendimiento de las aplicaciones.
+Redure la necesidad de crear estructuras personalizadas.
+
+    Ejercicio contextualización
+
+    1)Cola
+    2)Set
+    3)Map
+    4)Cola
+    5)Set o Map
+
+aa
