@@ -1,0 +1,6 @@
+may. 08, 2024 8:11:50 P. M. uniquindio.edu.co.utils.ArchivoUtils guardarRegistroLog
+INFORMACIÓN: ,Se termino de armar la plabra,2024-05-08
+may. 08, 2024 8:23:47 P. M. uniquindio.edu.co.utils.ArchivoUtils guardarRegistroLog
+INFORMACIÓN: ,Se termino de armar la plabra,2024-05-08
+may. 08, 2024 8:25:09 P. M. uniquindio.edu.co.utils.ArchivoUtils guardarRegistroLog
+INFORMACIÓN: Programa finalizado, Se termino de armar la plabra, 2024-05-08

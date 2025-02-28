@@ -1,0 +1,5 @@
+1001@@Matemáticas Generales@@4@@Teórica
+1002@@Física@@3@@Práctica
+1003@@Programacion@@6@@Teórica-Práctica
+1004@@Sistemas de informacion@@2@@Teórica
+1005@@Infraestructura Computacional@@5@@Práctica

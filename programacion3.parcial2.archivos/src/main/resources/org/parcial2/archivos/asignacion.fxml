@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="624.0" prefWidth="777.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.parcial2.archivos.viewController.AsignacionController">
+   <children>
+      <SplitPane dividerPositions="0.43628048780487794" layoutX="-1.0" layoutY="-1.0" prefHeight="624.0" prefWidth="777.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="537.0" prefWidth="322.0">
+               <children>
+                  <ComboBox fx:id="datosMateria" layoutX="14.0" layoutY="24.0" prefHeight="26.0" prefWidth="240.0" promptText="Materia" />
+                  <TextField fx:id="asignacionCodigo" layoutX="14.0" layoutY="60.0" prefHeight="26.0" prefWidth="240.0" promptText="Ingrese codigo de asignacion" />
+                  <TableView fx:id="tablaA" layoutX="14.0" layoutY="138.0" prefHeight="423.0" prefWidth="314.0">
+                    <columns>
+                      <TableColumn fx:id="CAM" prefWidth="75.0" text="Codigo Asignacion" />
+                      <TableColumn fx:id="CMM" prefWidth="75.0" text="Codigo Materia" />
+                        <TableColumn fx:id="CDM" prefWidth="81.59991455078125" text="Codigo docente" />
+                        <TableColumn fx:id="CEM" prefWidth="82.40010070800781" text="Codigo estudiante" />
+                    </columns>
+                  </TableView>
+                  <Button layoutX="14.0" layoutY="573.0" mnemonicParsing="false" onAction="#exportarTxt" prefHeight="26.0" prefWidth="314.0" text="Guardar Informacion" />
+                   <Button layoutX="14.0" layoutY="104.0" onAction="#agregarATablaA" text="Agregar asignacion" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="498.0" prefWidth="395.0">
+               <children>
+                  <TableView fx:id="tablaE" layoutX="18.0" layoutY="38.0" prefHeight="250.0" prefWidth="398.0">
+                    <columns>
+                      <TableColumn fx:id="IDE" prefWidth="197.60003662109375" text="Codigo estudiante" />
+                      <TableColumn fx:id="NombreE" prefWidth="200.0" text="Nombre estudiante" />
+                    </columns>
+                  </TableView>
+                  <TableView fx:id="tablaP" layoutX="18.0" layoutY="329.0" prefHeight="261.0" prefWidth="398.0">
+                    <columns>
+                      <TableColumn fx:id="IDP" prefWidth="192.800048828125" text="Codigo Profesor" />
+                      <TableColumn fx:id="NombreP" prefWidth="204.79998779296875" text="Nombre Profesor" />
+                    </columns>
+                  </TableView>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

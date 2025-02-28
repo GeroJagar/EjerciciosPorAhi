@@ -1,0 +1,12 @@
+Jose;triviño;M;40;980923;josTriv@uq.prof.edu.co;3001234567;Ingenieria de sistemas;Profesor
+Carlos;Gomez;M;42;980924;carlosG@uq.prof.edu.co;3001234568;Ingenieria de sistemas;Profesor
+Ana;Lopez;F;43;980925;anaL@uq.prof.edu.co;3001234569;Ingenieria de sistemas;Profesor
+Luis;Rodriguez;M;44;980926;luisR@uq.prof.edu.co;3001234570;Ingenieria de sistemas;Profesor
+Sofia;Martinez;F;45;980927;sofiaM@uq.prof.edu.co;3001234571;Ingenieria de sistemas;Profesor
+Jorge;Gonzalez;M;46;980928;jorgeG@uq.prof.edu.co;3001234572;Ingenieria de sistemas;Profesor
+Laura;Ramirez;F;47;980929;lauraR@uq.prof.edu.co;3001234573;Ingenieria de sistemas;Profesor
+Ricardo;Morales;M;48;980930;ricardoM@uq.prof.edu.co;3001234574;Ingenieria de sistemas;Profesor
+Carmen;Guerrero;F;49;980931;carmenG@uq.prof.edu.co;3001234575;Ingenieria de sistemas;Profesor
+Fernando;Torres;M;50;980932;fernandoT@uq.prof.edu.co;3001234576;Ingenieria de sistemas;Profesor
+
+
